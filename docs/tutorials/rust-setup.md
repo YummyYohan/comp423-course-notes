@@ -2,7 +2,7 @@
 
 * Primary author: [Yohan Choi](https://github.com/YummyYohan)
 
-* Reviewer: Nabiha Choudhury
+* Reviewer: [Nabiha Choudhury](https://github.com/chnabi)
 
 ## Prerequisites:
 
