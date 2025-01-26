@@ -54,7 +54,7 @@
 
 (1) Add the GitHub repository as a remote by:
 
-    git remote add origin https://github.com/<your-username>/comp423-course-notes.git
+    git remote add origin https://github.com/<your-username>/rust-tutorial.git
 
 Replace `<your-username>` with your GitHub username.
 
@@ -94,7 +94,7 @@ Replace `<your-username>` with your GitHub username.
 
 ## Step 2: Open the Folder in Dev Container
 
-(1) Open VSCode
+(1) Open VSCode and install the <strong>Dev Containers</strong> extension for VScode.
 
 (2) Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac),find and select "Dev Containers: Reopen in Container". This may take a few minutes while the image and requirements are being installed.
 
