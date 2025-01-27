@@ -140,5 +140,3 @@ You should see an output:
 
 !!! note
     `cargo build` compiles the project but does not run it, where as `cargo run` automatically compiles and runs the program.
-
-testing
